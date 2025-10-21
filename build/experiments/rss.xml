@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>PROJECT_SABA Blog</title>
+        <link>http://localhost/experiments</link>
+        <description>PROJECT_SABA Blog</description>
+        <lastBuildDate>Mon, 11 Aug 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Nothing here yet...]]></title>
+            <link>http://localhost/experiments/2025/08/11/vision-motor-loop</link>
+            <guid>http://localhost/experiments/2025/08/11/vision-motor-loop</guid>
+            <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[because there is nothing here yet....]]></description>
+            <content:encoded><![CDATA[<p>because there is nothing here yet....</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

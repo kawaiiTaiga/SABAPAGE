@@ -1,0 +1,17 @@
+{
+  "id": "hardware",
+  "title": "Hardware",
+  "description": "Guides for cameras, motors, sensors, and microcontrollers:",
+  "source": "@site/docs/hardware.md",
+  "sourceDirName": ".",
+  "slug": "/hardware",
+  "permalink": "/docs/hardware",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "hardware",
+    "title": "Hardware"
+  }
+}

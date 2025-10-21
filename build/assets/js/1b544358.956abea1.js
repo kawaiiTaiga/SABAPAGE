@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproject_saba_site=self.webpackChunkproject_saba_site||[]).push([[877],{8465:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/experiments","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Real experiments, results, and organized findings.","blogTitle":"EXPERIMENTS"}}')}}]);

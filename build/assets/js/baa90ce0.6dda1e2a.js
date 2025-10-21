@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproject_saba_site=self.webpackChunkproject_saba_site||[]).push([[422],{4441:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Nothing here yet...","permalink":"/experiments/2025/08/11/vision-motor-loop","unlisted":false,"date":"2025-08-11T00:00:00.000Z"}]}')}}]);

@@ -1,0 +1,28 @@
+{
+  "id": "tutorial/2-connect-core",
+  "title": "2. Connect to SABA Core",
+  "description": "What is SABA Core?",
+  "source": "@site/docs/tutorial/2-connect-core.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/2-connect-core",
+  "permalink": "/docs/tutorial/2-connect-core",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "2-connect-core",
+    "title": "2. Connect to SABA Core",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1. Make your own LLM peripheral",
+    "permalink": "/docs/tutorial/1-make-peripheral"
+  },
+  "next": {
+    "title": "3. Connect to Claude Desktop",
+    "permalink": "/docs/tutorial/3-connect-claude"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "cli",
+              "path": "/docs/cli"
+            },
+            {
+              "id": "faq",
+              "path": "/docs/faq"
+            },
+            {
+              "id": "getting-started",
+              "path": "/docs/getting-started"
+            },
+            {
+              "id": "hardware",
+              "path": "/docs/hardware"
+            },
+            {
+              "id": "integration",
+              "path": "/docs/integration"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/1-make-peripheral",
+              "path": "/docs/tutorial/1-make-peripheral",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/2-connect-core",
+              "path": "/docs/tutorial/2-connect-core",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/3-connect-claude",
+              "path": "/docs/tutorial/3-connect-claude",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

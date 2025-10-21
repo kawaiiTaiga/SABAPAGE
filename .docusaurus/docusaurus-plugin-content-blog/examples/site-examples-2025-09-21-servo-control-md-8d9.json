@@ -1,0 +1,34 @@
+{
+  "permalink": "/examples/2025/09/21/servo-control",
+  "source": "@site/examples/2025-09-21-servo-control.md",
+  "title": "Servo Control with Natural Language",
+  "description": "“Rotate 30° clockwise” 명령으로 서보모터 각도 제어. 노이즈 필터링과 지연 보정 실험 요약.",
+  "date": "2025-09-21T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "motor",
+      "permalink": "/examples/tags/motor"
+    },
+    {
+      "inline": true,
+      "label": "latency",
+      "permalink": "/examples/tags/latency"
+    }
+  ],
+  "readingTime": 0.07,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Servo Control with Natural Language",
+    "tags": [
+      "motor",
+      "latency"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Vision+Motor Closed Loop",
+    "permalink": "/examples/2025/08/11/vision-motor-loop"
+  }
+}
