@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkproject_saba_site=self.webpackChunkproject_saba_site||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"BULLSHIT","authorsListPath":"/blog/authors"}')}}]);
