@@ -5,12 +5,12 @@ const path = require('path');
 const config = {
   title: 'PROJECT_SABA',
   tagline: 'Connect LLMs to Physical Hardware',
-  url: 'http://localhost',
-  baseUrl: '/',
+  url: 'https://kawaiiTaiga.github.io',
+  baseUrl: '/SABAPAGE/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'kawaiiTaiga',
-  projectName: 'project_SABA',
+  projectName: 'SABAPAGE',
 
   i18n: { defaultLocale: 'en', locales: ['en'] },
 
